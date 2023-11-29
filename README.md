@@ -4,11 +4,10 @@ https://rwells1703.github.io/Matrix-Calculator/webroot/index.html
 <br />
 <br />
 
-A simple calculator that supports the use of matrices/vectors in the calculations.
+I am now Avi.
 <br />
 Includes many common operations e.g. logarithm and trigonometric functions.
 <br />
-It also implements a few more specific ones such as determinant, transpose and cross product etc, that only relate to linear algebra.
 <br />
 
 
@@ -23,7 +22,7 @@ Hope you enjoy!
 
 # Created Using
 
-JavaScript/HTML/CSS - The main languages used for the web app itself.
+JavaScript/HTML/CSS - The main languages used for the webapp itself.
 <br />
 [Python3](https://www.python.org) - Language used for the development tools and web server.
 <br />
@@ -31,7 +30,8 @@ JavaScript/HTML/CSS - The main languages used for the web app itself.
 <br />
 [Jinja2](https://jinja.palletsprojects.com) - Template engine used to create the web page files (install this Python module to recompile the HTML templates yourself).
 <br />
-
+I am forking this badboy
+#Richard Balls Wells 
 
 # License
 
